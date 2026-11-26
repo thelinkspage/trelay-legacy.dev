@@ -54,7 +54,7 @@ docker compose up -d`;
 			</button>
 			<code class="code-block">
 				<span class="code-line"><span class="cmd-name">git</span> <span class="cmd-action">clone</span> <span class="url">https://github.com/thelinkspage/trelay-legacy.git</span></span>
-				<span class="code-line"><span class="cmd-name">cd</span> <span class="value">trelay</span></span>
+				<span class="code-line"><span class="cmd-name">cd</span> <span class="value">trelay-legacy</span></span>
 				<span class="code-line"><span class="cmd-name">cp</span> <span class="value">env.example</span> <span class="value">.env</span></span>
 				<span class="code-line"><span class="cmd-name">docker</span> <span class="cmd-action">compose</span> <span class="flag">up</span> <span class="flag">-d</span></span>
 			</code>
