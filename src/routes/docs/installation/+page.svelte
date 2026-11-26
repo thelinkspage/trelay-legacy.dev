@@ -16,8 +16,8 @@
 	<p>Use Docker Compose for a single-command setup. The image builds the Go server and SvelteKit frontend and serves them from one container.</p>
 
 	<h3>1. Clone and configure</h3>
-	<pre class="code-block"><code>git clone https://github.com/trelay-dev/trelay.git
-cd trelay
+	<pre class="code-block"><code>git clone https://github.com/thelinkspage/trelay-legacy.git
+cd trelay-legacy
 cp env.example .env</code></pre>
 	<p>Edit <code>.env</code> and set at least:</p>
 	<ul>

@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This is the legacy Trelay codebase.** Trelay is being succeeded by **[thelinks.page](https://thelinks.page)**, an open-source (AGPL-3.0) rewrite that combines link-in-bio pages with a full URL toolkit. Development continues at **[thelinkspage/thelinks](https://github.com/thelinkspage/thelinks)**, which will ship a Trelay importer. This repo is kept as a reference implementation and will be archived once the importer lands.
+
 <p align="center">
   <img src="static/logo.png" alt="Trelay" width="80" />
 </p>
@@ -6,7 +9,7 @@
 
 <p align="center"><strong>Your Links, Your Server.</strong></p>
 
-This repo is the marketing site and docs for **Trelay**, the self-hosted URL manager. The app itself lives at [github.com/trelay-dev/trelay](https://github.com/trelay-dev/trelay).
+This repo is the marketing site and docs for **Trelay**, the self-hosted URL manager. The app itself lives at [github.com/thelinkspage/trelay-legacy](https://github.com/thelinkspage/trelay-legacy).
 
 ## Why Trelay?
 
@@ -27,7 +30,7 @@ This repo is the marketing site and docs for **Trelay**, the self-hosted URL man
 ## Quick start (clone the app)
 
 ```bash
-git clone https://github.com/trelay-dev/trelay.git && cd trelay
+git clone https://github.com/thelinkspage/trelay-legacy.git && cd trelay-legacy
 cp env.example .env   # set API_KEY, JWT_SECRET
 docker compose up -d
 # Dashboard: http://localhost:8080
@@ -35,8 +38,8 @@ docker compose up -d
 
 ## Links
 
-- **App source**: [github.com/trelay-dev/trelay](https://github.com/trelay-dev/trelay)
-- **README / setup**: [github.com/trelay-dev/trelay#readme](https://github.com/trelay-dev/trelay#readme)
+- **App source**: [github.com/thelinkspage/trelay-legacy](https://github.com/thelinkspage/trelay-legacy)
+- **README / setup**: [github.com/thelinkspage/trelay-legacy#readme](https://github.com/thelinkspage/trelay-legacy#readme)
 
 ## License
 

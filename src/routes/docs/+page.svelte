@@ -35,8 +35,8 @@
 
 	<h2>Quick start</h2>
 	<p>Get Trelay running in a few steps:</p>
-	<pre class="code-block"><code>git clone https://github.com/trelay-dev/trelay.git
-cd trelay
+	<pre class="code-block"><code>git clone https://github.com/thelinkspage/trelay-legacy.git
+cd trelay-legacy
 cp env.example .env
 # Edit .env: set API_KEY and JWT_SECRET
 docker compose up -d</code></pre>
